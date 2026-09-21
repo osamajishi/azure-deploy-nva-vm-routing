@@ -75,4 +75,4 @@ Verified in the Azure Portal that all supporting infrastructure components were 
 ---
 
 ## 5. Deployment Artifacts
-* The exported ARM deployment template capturing the NVA VM, `nvaVMNic` with IP forwarding configuration, NSG, and virtual network is stored in `template_4.json`.
+* The exported ARM deployment template capturing the NVA VM, `nvaVMNic` with IP forwarding configuration, NSG, and virtual network is stored in `template.json`.
